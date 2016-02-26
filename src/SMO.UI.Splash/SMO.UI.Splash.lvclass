@@ -1,5 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <LVClass LVVersion="13008000">
+	<Property Name="NI.Lib.Description" Type="Str">By value class that inherits from SMO.UI and provides basic Splash Screen functionality. It includes a method to update the message that is displayed on the screen (i.e. "loading....").</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)Z!!!*Q(C=\&gt;1R4A*2%-&lt;R4W.B:\C"Y1J4=!'O1'5`M&lt;#HN?1+%TU"6[!U-4':XM*A97&amp;*9G6CA`^^T!+67BBDQ;Y0W'`@TPR]OVGJ&lt;;@3C2[_XZD;RI-W2XX5"`7BX@F&gt;N%X[?0.65&gt;^&gt;OUJ^OF&gt;@_\]WD3L[A6[(\&lt;!&gt;NK_W[`58W^]1DK3OVXK&gt;D'!YQ^3V8S&gt;ZEC&gt;ZEC&gt;ZEA&gt;ZE!&gt;ZE!&gt;ZE$OZETOZETOZEROZE2OZE2OZE&lt;?&gt;8/1C&amp;TGEJ(H3+#G;&amp;%AG1V(SE8A34_**0"QK]33?R*.Y%A^4F(A34_**0)G(SZ2Y%E`C34S*BV*.EGUHRZ.Y++`!%XA#4_!*0,25Y!E!1&lt;/A=&amp;!%BI+4Q9`!%XA#$T]6?!*0Y!E]A9@4#DS"*`!%HM$$*7V6IGG[H2Q0:?2Y()`D=4S/B^*S0)\(]4A?RU-\/2\(YS#=BEZR#()O=C9Y"Y\(]@!FR_.Y()`D=4S=;H@)W]JUGGYHRW.Y$)`B-4S'BR)S0)&lt;(]"A?QU.:'2\$9XA-D_'BF1S0Y4%]"M2I3HM:R9Q,D5F'9(DY;U_,N&lt;M547*NF_LB64W5KI&gt;.^2#J(A\646@&gt;4.6.5CW_;F&amp;6C[6;".5`JU+L-+IGKIO\C6LRO71M'(0'D$&amp;F4"BDRJ!R[#\^Z9GLV5L,Z6+,R5,T_6STW5T4[634S54D]6D$Y6#$Q7$\'DBHX\Y1.O_FF^(NR@0DT&gt;0L[/LOY`XMYP\N]OHPXEP`Y&gt;WI9_XX9IU_!25'-G%!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.2</Property>
