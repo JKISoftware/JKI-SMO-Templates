@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-12-04 15:52:35" Modified_Date="2016-03-02 16:13:25" Creator="Francois Normandin" Comments="" ID="d0c323692496418eb20ab0900be8d917">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-12-04 15:52:35" Modified_Date="2016-03-02 18:58:54" Creator="Francois Normandin" Comments="" ID="615c6622c4fa8934e6ed1fee05cc606d">
   <Library_General_Settings>
     <Package_File_Name>JKI_SMO_Templates</Package_File_Name>
-    <Library_Version>1.0.0.7</Library_Version>
+    <Library_Version>1.0.0.8</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\_builtpackages</Library_Output_Folder>
