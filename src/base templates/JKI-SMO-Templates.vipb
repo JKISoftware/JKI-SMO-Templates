@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-12-04 15:52:35" Modified_Date="2016-03-02 18:58:54" Creator="Francois Normandin" Comments="" ID="615c6622c4fa8934e6ed1fee05cc606d">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-12-04 15:52:35" Modified_Date="2016-04-02 20:03:16" Creator="Francois Normandin" Comments="" ID="b2d42c5a9fb5ebb2a832d728c1c16869">
   <Library_General_Settings>
     <Package_File_Name>JKI_SMO_Templates</Package_File_Name>
-    <Library_Version>1.0.0.8</Library_Version>
+    <Library_Version>1.0.1.10</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\_builtpackages</Library_Output_Folder>
@@ -38,7 +38,7 @@ The JKI State Machine Objects for LabVIEW is an easy-to-use yet powerful object-
       <Copyright/>
       <Packager>JKI</Packager>
       <URL>https://github.com/JKISoftware/JKI-State-Machine-Objects</URL>
-      <Release_Notes>- Updated descriptions and class settings.</Release_Notes>
+      <Release_Notes>- Added a Basic By Reference template with async and sync modes.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
