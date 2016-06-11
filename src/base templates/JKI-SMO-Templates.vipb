@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-12-04 15:52:35" Modified_Date="2016-04-14 20:35:23" Creator="Francois Normandin" Comments="" ID="569af8058d2d407dac93b2ab9029738e">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-12-04 15:52:35" Modified_Date="2016-06-10 17:23:17" Creator="Francois Normandin" Comments="" ID="6220f7ee0db2b2724009851655fa1549">
   <Library_General_Settings>
     <Package_File_Name>JKI_SMO_Templates</Package_File_Name>
-    <Library_Version>1.0.2.12</Library_Version>
+    <Library_Version>1.1.0.13</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\_builtpackages</Library_Output_Folder>
@@ -18,9 +18,9 @@
   <Advanced_Settings>
     <Package_Dependencies>
       <External_Dependencies>jki_lib_state_machine &gt;= 2.0.0</External_Dependencies>
-      <External_Dependencies>jki_statemachineobjects &gt;= 1.0.4.18</External_Dependencies>
+      <External_Dependencies>jki_statemachineobjects &gt;= 1.1.0.20</External_Dependencies>
       <Direct_Dependencies>jki_lib_state_machine-2.0.0-1</Direct_Dependencies>
-      <Direct_Dependencies>jki_statemachineobjects-1.0.4.18</Direct_Dependencies>
+      <Direct_Dependencies>jki_statemachineobjects-1.1.0.20</Direct_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
@@ -41,7 +41,8 @@ The JKI State Machine Objects for LabVIEW is an easy-to-use yet powerful object-
       <Copyright/>
       <Packager>JKI</Packager>
       <URL>https://github.com/JKISoftware/JKI-State-Machine-Objects</URL>
-      <Release_Notes>- Updated base templates with new event public registration</Release_Notes>
+      <Release_Notes>- Added a SMO.Instrument template for management of Dependencies at RunTime
+- Needs SMO Base 1.1.0 or newer</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
