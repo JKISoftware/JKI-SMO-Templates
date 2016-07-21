@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-12-04 15:52:35" Modified_Date="2016-07-20 17:04:17" Creator="Francois Normandin" Comments="" ID="a2557d7df71283de596ee5ed3d13baf8">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-12-04 15:52:35" Modified_Date="2016-07-20 17:10:25" Creator="Francois Normandin" Comments="" ID="c58ff600a874f7c7222e15dcbfdcf40e">
   <Library_General_Settings>
     <Package_File_Name>jki_smo_ui_graph</Package_File_Name>
-    <Library_Version>1.1.0.12</Library_Version>
+    <Library_Version>1.1.0.13</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\_builtpackages</Library_Output_Folder>
