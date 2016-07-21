@@ -1,5 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <LVClass LVVersion="13008000">
+	<Property Name="NI.Lib.Description" Type="Str">Provides a template for an SMO that uses the Process.vi as a UI. The UI can be opened detached or can be embeded into a subpanel.</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)\!!!*Q(C=\&gt;3^&lt;2N"%)&lt;BTY9#JV1&amp;!FO9&amp;NA#/T!G9MZ5Y36+$#:4A"*W),!$95IQ=U&gt;M9@8O;HC1"5AS9-.1Q$UO?@@NX]/^QUGD@*/ON0GAN0\J8WX]^)NWPBQHZ`&lt;?VD;NT=G,JD(A_71?`\J^=[[`DZ^\PL(_2U78=CG8]F[Z&lt;?_5`U0Y)P7V7ENK5*VK[MOX*%`S*%`S*%`S)!`S)!`S)!^S*X&gt;S*X&gt;S*X&gt;S)T&gt;S)T&gt;S)T@S=:#,8/1CBZ1MHCS54*J-E(3'IO1L]33?R*.YO&amp;4C34S**`%E(LII]33?R*.Y%A`$F(A34_**0)G(K99ERU'/*`%QP1*0Y!E]A3@QM+1#4Q!)&amp;AMG$C;"I;!R/!E]A3@Q=+L!%XA#4_!*0$1L]!3?Q".Y!A^$RK\%U03$(!`4S0%Y(M@D?"Q05]PR/"\(YXA=$]P*]4A?"_%M[%Q/1=YAJY.TY8A=$T^S0)\(]4A?RU04O%-_&gt;K:L_E'/R`!9(M.D?!Q05]DQ'"\$9XA-$^0+]"A?QW.Y$!^,S@!9(M.D1)R&amp;76\':-:!IZ-2'"Y_YWGR=:&gt;C3'Q=5DW]KI&gt;3^&lt;#J(C,6Q['[[;K&lt;K&lt;J*KMV8&lt;;JKMV3&lt;I0JT+L1+IVJ%.&lt;BXV)HP)`6!X6-H[J;[JK[I3_KC$`X((5_HEY\(IQ[(A`&lt;\P;:JUH;\V8K^VGKVUH+ZV'+RG&amp;]$.RTT#U'X`74X[_(H\O\_?P@Y]'-XX6^`Z`LPXT&gt;`8$\"OV&amp;@^8)N^OA*92QS1Q!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
