@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-12-04 15:52:35" Modified_Date="2016-07-18 14:00:07" Creator="Francois Normandin" Comments="" ID="8a2aaef9823f8de3188ec4d19bc6eaf5">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-12-04 15:52:35" Modified_Date="2016-08-04 11:18:33" Creator="Francois Normandin" Comments="" ID="4f0b81057fd7f77f6c024eae7f265172">
   <Library_General_Settings>
     <Package_File_Name>JKI_SMO_Templates</Package_File_Name>
-    <Library_Version>1.4.0.15</Library_Version>
+    <Library_Version>1.4.0.16</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\_builtpackages</Library_Output_Folder>
@@ -18,9 +18,9 @@
   <Advanced_Settings>
     <Package_Dependencies>
       <External_Dependencies>jki_lib_state_machine &gt;= 2.0.0</External_Dependencies>
-      <External_Dependencies>jki_statemachineobjects &gt;= 1.1.4.28</External_Dependencies>
+      <External_Dependencies>jki_statemachineobjects &gt;= 1.1.6.30</External_Dependencies>
       <Direct_Dependencies>jki_lib_state_machine-2.0.0-1</Direct_Dependencies>
-      <Direct_Dependencies>jki_statemachineobjects-1.1.4.28</Direct_Dependencies>
+      <Direct_Dependencies>jki_statemachineobjects-1.1.6.30</Direct_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
@@ -34,6 +34,7 @@
     <Description>
       <One_Line_Description_Summary>Templates for the JKI SMO Framework</One_Line_Description_Summary>
       <Description>This package provides templates to get started withthe JKI State Machine Objects (SMO) framework.
+Templates can be instantiated by copying those classes and renaming them, or by using the SMO Editor Tool (separate package) to do so.
 
 The JKI State Machine Objects for LabVIEW is an easy-to-use yet powerful object-oriented framework, based on the JKI State Machine. It is the very same framework that is used by the JKI team in our everyday project work, and is the result of years of refinement by our team of LabVIEW experts.
 
@@ -41,7 +42,7 @@ The JKI State Machine Objects for LabVIEW is an easy-to-use yet powerful object-
       <Copyright/>
       <Packager>JKI</Packager>
       <URL>https://github.com/JKISoftware/JKI-State-Machine-Objects</URL>
-      <Release_Notes>- Update the look of the Splash template</Release_Notes>
+      <Release_Notes>- Fixed an issue with UI templates not closing on Stop Command in Test Launcher VI</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
