@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <LVClass LVVersion="13008000">
-	<Property Name="NI.Lib.Description" Type="Str">By reference SMO class that includes a template on how to communicate to and from the Process method.</Property>
+	<Property Name="NI.Lib.Description" Type="Str">By reference SMO class that uses a timed loop and an event loop in the Process.vi instead of a JKI State Machine.</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)4!!!*Q(C=\&gt;4,&lt;=*1%)8BESC,&lt;/EAII6JA2:I96J!9M83,5Q,N%!,JQ6;I!8S_W:#5+1]J%22&amp;FTH'DDX-6^MS^*ID^+$NF]XJI[0F_^^[H"\'2HH??$K^$9OP2``?PX\]:?SL`7`!?^6NX:LN`:RWZU`;8^$O*0G7O?T[560?GAO@T;ZS5VO=J/&lt;P-C,P-C,P-C,0-G40-G40-G40-C$0-C$0-C$@"TE)B?ZS#':YK;1W&gt;2M9#:$E4E:D`%9D`(Q5]:D0-:D0-&lt;$&amp;"G0]2C0]2A0SW1]RG-]RG-]&lt;$5E(A=Z(O.B?R7?QF.Y#E`BI;1+4Q%ICB5&lt;&amp;ZP!5$&amp;9@#E]B;@Q]&amp;7&amp;J`!5HM*4?"B7Y3E]B;@Q&amp;"[7D+N31T-@Z(D92IEH]33?R*.YW&amp;K**`%EHM34?#CHR*.Y%E23-.E=AJ*&amp;S94E2_**0(QI]33?R*.Y%A^$YQ\FO$+T:D\)]13?Q".Y!E`A91M&amp;HM!4?!*0Y'&amp;&lt;":\!%XA#4_#BF!*0Y!E]!31I3HE&amp;GQ5,AUF"%(DY'U^,D,N51R,DE0LB64_5[I&gt;.`2#J(Q\V46@@406.5F^]^5668STV26$`=WKU'K-OIFY]4^3*]Z&amp;_I/`J%XV$8^.8^#6^-3`^Z9GHUUH(YV'(QU(\`6\4.'GTW7C^8GOV7GGZ8'KR7&amp;R?!U]=FR?#&gt;L`R:PFB_Q@P2NXLOB&lt;8["HUD`*8!!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
