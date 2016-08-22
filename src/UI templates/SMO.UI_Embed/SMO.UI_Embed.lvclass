@@ -193,7 +193,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 		</Item>
-		<Item Name="SMO.UI.ReftoDVR.vi" Type="VI" URL="../SMO.UI.ReftoDVR.vi">
+		<Item Name="SMO.UI_Embed.ReftoDVR.vi" Type="VI" URL="../Private/SMO.UI_Embed.ReftoDVR.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(Q!!!!#1!%!!!!&lt;Q$RU\6\_Q!!!!)55UV0,F6*8U6N9G6E,GRW9WRB=X-=5UV0,F6*8U6N9G6E)&amp;.U982F,3VF&lt;H6N,G.U&lt;!!V1"9!"!&gt;V&lt;GNO&lt;X&gt;O"E^Q:7ZF:!B&amp;&lt;7*F:'2F:!:$&lt;'^T:71!!!B633"4&gt;'&amp;U:1!!&amp;%"Q!"E!!1!"#&amp;6*)&amp;.U982F!!"2!0%!!!!!!!!!!B2445]O65F@27VC:71O&lt;(:D&lt;'&amp;T=RF1&gt;7*M;7.&amp;&gt;G6O&gt;(-N,5.M&gt;8.U:8)O9X2M!"J!5!!"!!).5(6C&lt;'FD)%6W:7ZU=Q!;1(!!#!!!!%%!!!R4&gt;7*Q97ZF&lt;#"3:79!!&amp;1!]1!!!!!!!!!#&amp;&amp;..4SZ636^&amp;&lt;7*F:#ZM&gt;G.M98.T'&amp;"S;8:B&gt;'6%982B,3V$&lt;(6T&gt;'6S,G.U&lt;!!?1&amp;!!!Q!$!!1!!1R1=GFW982F)%2B&gt;'%!!%5!]1!!!!!!!!!#&amp;&amp;..4SZ636^&amp;&lt;7*F:#ZM&gt;G.M98.T&amp;&amp;"S;8:B&gt;'6%982B,3V3:79O9X2M!".!=!!A!!%!"1!$5G6G!!F!"Q!$5G6G!&amp;1!]!!-!!!!!!!'!!!!!!!!!!!!!!!!!!!!"Q!!!A!!?!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!%!#!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -202,7 +202,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1351098880</Property>
 		</Item>
-		<Item Name="SMO.UI.DVRtoRef.vi" Type="VI" URL="../SMO.UI.DVRtoRef.vi">
+		<Item Name="SMO.UI_Embed.DVRtoRef.vi" Type="VI" URL="../Private/SMO.UI_Embed.DVRtoRef.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(Q!!!!#1!%!!!!#5!(!!.3:79!&lt;Q$RU\6\_Q!!!!)55UV0,F6*8U6N9G6E,GRW9WRB=X-=5UV0,F6*8U6N9G6E)&amp;.U982F,3VF&lt;H6N,G.U&lt;!!V1"9!"!&gt;V&lt;GNO&lt;X&gt;O"E^Q:7ZF:!B&amp;&lt;7*F:'2F:!:$&lt;'^T:71!!!B633"4&gt;'&amp;U:1!!&amp;%"Q!"E!!1!##&amp;6*)&amp;.U982F!!"2!0%!!!!!!!!!!B2445]O65F@27VC:71O&lt;(:D&lt;'&amp;T=RF1&gt;7*M;7.&amp;&gt;G6O&gt;(-N,5.M&gt;8.U:8)O9X2M!"J!5!!"!!-.5(6C&lt;'FD)%6W:7ZU=Q!;1(!!#!!!!%%!!!R4&gt;7*Q97ZF&lt;#"3:79!!&amp;1!]1!!!!!!!!!#&amp;&amp;..4SZ636^&amp;&lt;7*F:#ZM&gt;G.M98.T'&amp;"S;8:B&gt;'6%982B,3V$&lt;(6T&gt;'6S,G.U&lt;!!?1&amp;!!!Q!%!!5!!AR1=GFW982F)%2B&gt;'%!!%5!]1!!!!!!!!!#&amp;&amp;..4SZ636^&amp;&lt;7*F:#ZM&gt;G.M98.T&amp;&amp;"S;8:B&gt;'6%982B,3V3:79O9X2M!".!=!!A!!%!"A!$5G6G!&amp;1!]!!-!!!!!!!"!!!!!!!!!!!!!!!!!!!!"Q!!!A!!?!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!%!#!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
