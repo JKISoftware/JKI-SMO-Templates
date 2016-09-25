@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-12-04 15:52:35" Modified_Date="2016-09-11 19:21:16" Creator="Francois Normandin" Comments="" ID="f78aa7c191169e252611326043d1befd">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-12-04 15:52:35" Modified_Date="2016-09-24 20:26:43" Creator="Francois Normandin" Comments="" ID="003587319dfd0690d17105963b7e1927">
   <Library_General_Settings>
     <Package_File_Name>jki_smo_daqmx_templates</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.1.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\_builtpackages</Library_Output_Folder>
@@ -39,7 +39,7 @@ The JKI State Machine Objects for LabVIEW is an easy-to-use yet powerful object-
       <Copyright/>
       <Packager>JKI</Packager>
       <URL>https://github.com/JKISoftware/JKI-State-Machine-Objects</URL>
-      <Release_Notes>Initial package for DAQmx templates</Release_Notes>
+      <Release_Notes>Added TDMS Logging support</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
