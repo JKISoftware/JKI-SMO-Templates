@@ -20,6 +20,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="SMO.Basic.lvclass" Type="LVClass" URL="../SMO.Basic/SMO.Basic.lvclass"/>
+		<Item Name="SMO.BasicByRef.lvclass" Type="LVClass" URL="../SMO.BasicByRef/SMO.BasicByRef.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Add State(s) to Queue__jki_lib_state_machine.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/State Machine/_jki_lib_state_machine.llb/Add State(s) to Queue__jki_lib_state_machine.vi"/>
