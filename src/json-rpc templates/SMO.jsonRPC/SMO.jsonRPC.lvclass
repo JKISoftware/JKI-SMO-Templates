@@ -46,16 +46,16 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 		</Item>
-		<Item Name="Request-Response_TEMPLATE.vi" Type="VI" URL="../Request-Response_TEMPLATE.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;?!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!#5!$!!*J:!!!$E!Q`````Q6S:8"M?1!O1(!!(A!!&amp;2.445]O;H.P&lt;F*11SZM&gt;G.M98.T!!^445]O;H.P&lt;F*11S"P&gt;81!"!!!!"6!!Q!0&gt;'FN:7^V&gt;#!I.4!A&lt;8-J!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%%!Q`````Q:N?52B&gt;'%!!#J!=!!?!!!6%V..4SZK=W^O5F"$,GRW9WRB=X-!#V..4SZK=W^O5F"$!'%!]!!-!!-!"!!&amp;!!9!"Q!(!!A!"Q!*!!=!#A!,!Q!!?!!!$1A!!!E!!!!*!!!!$1M!!!!!!!!!!!!!#!!!!!!!!!!+!!!!!!!!!2)!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!Q!!!!!</Property>
+		<Item Name="Request-WaitForResponse_TEMPLATE.vi" Type="VI" URL="../Request-WaitForResponse_TEMPLATE.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;C!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!#5!$!!*J:!!!%E!Q`````QB3:8.Q&lt;WZT:1!!,E"Q!"Y!!"545UV0,GJT&lt;WZ35%-O&lt;(:D&lt;'&amp;T=Q!05UV0,GJT&lt;WZ35%-A&lt;X6U!!1!!!!61!-!$X2J&lt;76P&gt;81A+$5Q)'VT+1!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!""!-0````]'&lt;8F%982B!!!K1(!!(A!!&amp;2.445]O;H.P&lt;F*11SZM&gt;G.M98.T!!N445]O;H.P&lt;F*11Q"B!0!!$!!$!!1!"1!'!!=!"Q!)!!=!#1!(!!I!#Q-!!(A!!!U)!!!*!!!!#1!!!!U,!!!!!!!!!!!!!!A!!!!!!!!!#A!!!!!!!!%3!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!-!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1107825171</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 		</Item>
-		<Item Name="Request-Reply_TEMPLATE.vi" Type="VI" URL="../Request-Reply_TEMPLATE.vi">
+		<Item Name="Request-EventResponse_TEMPLATE.vi" Type="VI" URL="../Request-EventResponse_TEMPLATE.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%\!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!#5!$!!*J:!!!"!!!!#Z!=!!?!!!6%V..4SZK=W^O5F"$,GRW9WRB=X-!$V..4SZK=W^O5F"$)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!""!5QJ198*B&lt;76U:8*T!!!K1(!!(A!!&amp;2.445]O;H.P&lt;F*11SZM&gt;G.M98.T!!N445]O;H.P&lt;F*11Q"B!0!!$!!$!!1!"1!'!!5!"1!&amp;!!5!"Q!&amp;!!A!#1-!!(A!!!U)!!!*!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!3!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!+!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
